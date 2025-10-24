@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@timephy/rnnoise-wasm": "^1.0.0",
+    "murmuraba": "^3.0.3",
     "next": "15.5.6",
     "react": "19.1.0",
     "react-dom": "19.1.0"
